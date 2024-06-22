@@ -11,4 +11,4 @@ The Weather App is a simple and intuitive application that provides current weat
 1. Enter the name of the city you want to check the weather for.
 2. View the current weather information displayed on the screen.
 
-link for output:
+link for output:https://shivani-joshi21.github.io/Prasunet_WD_05-WEATHER-APP/
